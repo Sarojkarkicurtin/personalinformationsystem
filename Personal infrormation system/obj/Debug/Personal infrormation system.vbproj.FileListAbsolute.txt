@@ -1,0 +1,3 @@
+C:\Users\DELL\source\repos\Personal infrormation system\Personal infrormation system\obj\Debug\Personal infrormation system.vbproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Personal infrormation system\Personal infrormation system\obj\Debug\Personal_infrormation_system.Resources.resources
+C:\Users\DELL\source\repos\Personal infrormation system\Personal infrormation system\obj\Debug\Personal infrormation system.vbproj.GenerateResource.cache
